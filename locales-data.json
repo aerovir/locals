@@ -1,0 +1,402 @@
+[
+  {
+    "code": "ar-AE",
+    "language": "العربية",
+    "country": "الإمارات العربية المتحدة",
+    "currency": "AED",
+    "tld": ".ae",
+    "flag": "🇦🇪"
+  },
+  {
+    "code": "ar-SA",
+    "language": "العربية",
+    "country": "المملكة العربية السعودية",
+    "currency": "SAR",
+    "tld": ".sa",
+    "flag": "🇸🇦"
+  },
+  {
+    "code": "cs-CZ",
+    "language": "čeština",
+    "country": "Česko",
+    "currency": "CZK",
+    "tld": ".cz",
+    "flag": "🇨🇿"
+  },
+  {
+    "code": "da-DK",
+    "language": "dansk",
+    "country": "Danmark",
+    "currency": "DKK",
+    "tld": ".dk",
+    "flag": "🇩🇰"
+  },
+  {
+    "code": "de-AT",
+    "language": "Deutsch",
+    "country": "Österreich",
+    "currency": "EUR",
+    "tld": ".at",
+    "flag": "🇦🇹"
+  },
+  {
+    "code": "de-CH",
+    "language": "Deutsch",
+    "country": "Schweiz",
+    "currency": "CHF",
+    "tld": ".ch",
+    "flag": "🇨🇭"
+  },
+  {
+    "code": "de-DE",
+    "language": "Deutsch",
+    "country": "Deutschland",
+    "currency": "EUR",
+    "tld": ".de",
+    "flag": "🇩🇪"
+  },
+  {
+    "code": "el-GR",
+    "language": "Ελληνικά",
+    "country": "Ελλάδα",
+    "currency": "EUR",
+    "tld": ".gr",
+    "flag": "🇬🇷"
+  },
+  {
+    "code": "en-AU",
+    "language": "English",
+    "country": "Australia",
+    "currency": "AUD",
+    "tld": ".au",
+    "flag": "🇦🇺"
+  },
+  {
+    "code": "en-CA",
+    "language": "English",
+    "country": "Canada",
+    "currency": "CAD",
+    "tld": ".ca",
+    "flag": "🇨🇦"
+  },
+  {
+    "code": "en-GB",
+    "language": "English",
+    "country": "United Kingdom",
+    "currency": "GBP",
+    "tld": ".uk",
+    "flag": "🇬🇧"
+  },
+  {
+    "code": "en-IN",
+    "language": "English",
+    "country": "India",
+    "currency": "INR",
+    "tld": ".in",
+    "flag": "🇮🇳"
+  },
+  {
+    "code": "en-NZ",
+    "language": "English",
+    "country": "New Zealand",
+    "currency": "NZD",
+    "tld": ".nz",
+    "flag": "🇳🇿"
+  },
+  {
+    "code": "en-US",
+    "language": "English",
+    "country": "United States",
+    "currency": "USD",
+    "tld": ".us",
+    "flag": "🇺🇸"
+  },
+  {
+    "code": "en-ZA",
+    "language": "English",
+    "country": "South Africa",
+    "currency": "ZAR",
+    "tld": ".za",
+    "flag": "🇿🇦"
+  },
+  {
+    "code": "es-AR",
+    "language": "español",
+    "country": "Argentina",
+    "currency": "ARS",
+    "tld": ".ar",
+    "flag": "🇦🇷"
+  },
+  {
+    "code": "es-CO",
+    "language": "español",
+    "country": "Colombia",
+    "currency": "COP",
+    "tld": ".co",
+    "flag": "🇨🇴"
+  },
+  {
+    "code": "es-ES",
+    "language": "español",
+    "country": "España",
+    "currency": "EUR",
+    "tld": ".es",
+    "flag": "🇪🇸"
+  },
+  {
+    "code": "es-MX",
+    "language": "español",
+    "country": "México",
+    "currency": "MXN",
+    "tld": ".mx",
+    "flag": "🇲🇽"
+  },
+  {
+    "code": "fi-FI",
+    "language": "suomi",
+    "country": "Suomi",
+    "currency": "EUR",
+    "tld": ".fi",
+    "flag": "🇫🇮"
+  },
+  {
+    "code": "fr-BE",
+    "language": "français",
+    "country": "Belgique",
+    "currency": "EUR",
+    "tld": ".be",
+    "flag": "🇧🇪"
+  },
+  {
+    "code": "fr-CA",
+    "language": "français",
+    "country": "Canada",
+    "currency": "CAD",
+    "tld": ".ca",
+    "flag": "🇨🇦"
+  },
+  {
+    "code": "fr-CH",
+    "language": "français",
+    "country": "Suisse",
+    "currency": "CHF",
+    "tld": ".ch",
+    "flag": "🇨🇭"
+  },
+  {
+    "code": "fr-FR",
+    "language": "français",
+    "country": "France",
+    "currency": "EUR",
+    "tld": ".fr",
+    "flag": "🇫🇷"
+  },
+  {
+    "code": "he-IL",
+    "language": "עברית",
+    "country": "ישראל",
+    "currency": "ILS",
+    "tld": ".il",
+    "flag": "🇮🇱"
+  },
+  {
+    "code": "hi-IN",
+    "language": "हिन्दी",
+    "country": "भारत",
+    "currency": "INR",
+    "tld": ".in",
+    "flag": "🇮🇳"
+  },
+  {
+    "code": "hu-HU",
+    "language": "magyar",
+    "country": "Magyarország",
+    "currency": "HUF",
+    "tld": ".hu",
+    "flag": "🇭🇺"
+  },
+  {
+    "code": "id-ID",
+    "language": "Indonesia",
+    "country": "Indonesia",
+    "currency": "IDR",
+    "tld": ".id",
+    "flag": "🇮🇩"
+  },
+  {
+    "code": "it-CH",
+    "language": "italiano",
+    "country": "Svizzera",
+    "currency": "CHF",
+    "tld": ".ch",
+    "flag": "🇨🇭"
+  },
+  {
+    "code": "it-IT",
+    "language": "italiano",
+    "country": "Italia",
+    "currency": "EUR",
+    "tld": ".it",
+    "flag": "🇮🇹"
+  },
+  {
+    "code": "ja-JP",
+    "language": "日本語",
+    "country": "日本",
+    "currency": "JPY",
+    "tld": ".jp",
+    "flag": "🇯🇵"
+  },
+  {
+    "code": "ko-KR",
+    "language": "한국어",
+    "country": "대한민국",
+    "currency": "KRW",
+    "tld": ".kr",
+    "flag": "🇰🇷"
+  },
+  {
+    "code": "ms-MY",
+    "language": "Melayu",
+    "country": "Malaysia",
+    "currency": "MYR",
+    "tld": ".my",
+    "flag": "🇲🇾"
+  },
+  {
+    "code": "nb-NO",
+    "language": "norsk bokmål",
+    "country": "Norge",
+    "currency": "NOK",
+    "tld": ".no",
+    "flag": "🇳🇴"
+  },
+  {
+    "code": "nl-BE",
+    "language": "Nederlands",
+    "country": "België",
+    "currency": "EUR",
+    "tld": ".be",
+    "flag": "🇧🇪"
+  },
+  {
+    "code": "nl-NL",
+    "language": "Nederlands",
+    "country": "Nederland",
+    "currency": "EUR",
+    "tld": ".nl",
+    "flag": "🇳🇱"
+  },
+  {
+    "code": "pl-PL",
+    "language": "polski",
+    "country": "Polska",
+    "currency": "PLN",
+    "tld": ".pl",
+    "flag": "🇵🇱"
+  },
+  {
+    "code": "pt-BR",
+    "language": "português",
+    "country": "Brasil",
+    "currency": "BRL",
+    "tld": ".br",
+    "flag": "🇧🇷"
+  },
+  {
+    "code": "pt-PT",
+    "language": "português",
+    "country": "Portugal",
+    "currency": "EUR",
+    "tld": ".pt",
+    "flag": "🇵🇹"
+  },
+  {
+    "code": "ro-RO",
+    "language": "română",
+    "country": "România",
+    "currency": "RON",
+    "tld": ".ro",
+    "flag": "🇷🇴"
+  },
+  {
+    "code": "ru-BY",
+    "language": "русский",
+    "country": "Беларусь",
+    "currency": "BYN",
+    "tld": ".by",
+    "flag": "🇧🇾"
+  },
+  {
+    "code": "ru-KZ",
+    "language": "русский",
+    "country": "Казахстан",
+    "currency": "KZT",
+    "tld": ".kz",
+    "flag": "🇰🇿"
+  },
+  {
+    "code": "ru-RU",
+    "language": "русский",
+    "country": "Россия",
+    "currency": "RUB",
+    "tld": ".ru",
+    "flag": "🇷🇺"
+  },
+  {
+    "code": "sv-SE",
+    "language": "svenska",
+    "country": "Sverige",
+    "currency": "SEK",
+    "tld": ".se",
+    "flag": "🇸🇪"
+  },
+  {
+    "code": "th-TH",
+    "language": "ไทย",
+    "country": "ไทย",
+    "currency": "THB",
+    "tld": ".th",
+    "flag": "🇹🇭"
+  },
+  {
+    "code": "tr-TR",
+    "language": "Türkçe",
+    "country": "Türkiye",
+    "currency": "TRY",
+    "tld": ".tr",
+    "flag": "🇹🇷"
+  },
+  {
+    "code": "uk-UA",
+    "language": "українська",
+    "country": "Україна",
+    "currency": "UAH",
+    "tld": ".ua",
+    "flag": "🇺🇦"
+  },
+  {
+    "code": "vi-VN",
+    "language": "Tiếng Việt",
+    "country": "Việt Nam",
+    "currency": "VND",
+    "tld": ".vn",
+    "flag": "🇻🇳"
+  },
+  {
+    "code": "zh-CN",
+    "language": "中文",
+    "country": "中国",
+    "currency": "CNY",
+    "tld": ".cn",
+    "flag": "🇨🇳"
+  },
+  {
+    "code": "zh-TW",
+    "language": "中文",
+    "country": "台灣",
+    "currency": "TWD",
+    "tld": ".tw",
+    "flag": "🇹🇼"
+  }
+]

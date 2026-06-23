@@ -89,3 +89,47 @@ main
 ```
 
 Each milestone branch is created from `dev` and merged back via fast-forward.
+
+---
+
+## Tests Performed
+
+### M1 — Backend
+
+| # | Test | Method |
+|---|------|--------|
+| T1 | 50 locales returned | `curl /api/locales` → JSON array length == 50 |
+| T2 | All fields present | Every object has `code`, `language`, `country`, `currency`, `tld`, `flag` |
+| T3 | All currencies mapped | No empty `currency` fields |
+| T4 | Sort order | Entries sorted alphabetically by `code` |
+| T5 | Flags are valid emoji | Each flag consists of 2 Regional Indicator Symbols (Unicode) |
+| T6 | HTTP 200 + Content-Type | Response header `Content-Type: application/json; charset=utf-8` |
+
+### M2 — Frontend
+
+| # | Test | Method |
+|---|------|--------|
+| T7 | HTML page renders | `curl /` → HTTP 200 |
+| T8 | Static files served | `curl /style.css` → 200, `curl /app.js` → 200 |
+| T9 | Table element present | HTML contains `<table>` |
+| T10 | Counter element present | HTML contains `class="counter"` |
+| T11 | CSS linked | HTML references `style.css` |
+| T12 | JS linked | HTML references `app.js` |
+| T13 | All 5 column headers | HTML contains Country, Flag, Language, Currency, TLD |
+| V1 | Dark theme | Visual: background `#121212`, light text |
+| V2 | Zebra stripes | Visual: alternating row backgrounds |
+| V3 | Hover highlight | Visual: row highlight on hover |
+| V4 | Flags visible | Visual: emoji flags render in all rows |
+| V5 | Responsive | Visual: usable at 400px viewport width |
+
+### M3 — Search
+
+| # | Test | Method |
+|---|------|--------|
+| T14 | Search input exists | HTML contains `<input id="search-input" type="search">` |
+| T15 | dataset.search set | JS stores code/language/country in each row's `dataset.search` |
+| T16 | Input event listener bound | JS calls `addEventListener('input', …)` |
+| T17 | Counter updates dynamically | JS contains "of" pattern for filtered count |
+| V6 | Filter works | Type "ru" → only Russian-related locales shown |
+| V7 | Empty input resets | Clear input → all 50 rows visible, counter shows "50 locales" |
+| V8 | Case insensitive | Search "AU" matches "en-AU", "Australia", "EUR" matches "EUR"

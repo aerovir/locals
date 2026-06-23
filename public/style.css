@@ -35,6 +35,31 @@ h1 {
   color: #9e9e9e;
 }
 
+/* ─── Search input ─── */
+#search-input {
+  display: block;
+  width: 100%;
+  max-width: 400px;
+  margin: 0 auto 1rem;
+  padding: 0.6rem 0.85rem;
+  font-size: 0.95rem;
+  font-family: inherit;
+  color: #e0e0e0;
+  background: #1e1e1e;
+  border: 1px solid #333;
+  border-radius: 8px;
+  outline: none;
+  transition: border-color 0.2s;
+}
+
+#search-input::placeholder {
+  color: #666;
+}
+
+#search-input:focus {
+  border-color: #82aaff;
+}
+
 /* ─── Table ─── */
 main {
   width: 100%;
